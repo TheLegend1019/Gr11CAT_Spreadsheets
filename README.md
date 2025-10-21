@@ -1,8 +1,6 @@
 # Gr11CAT_Spreadsheets
 
-Short answer: almost—but we can tighten it up for GitHub.
 
-Here’s a **copy-paste-ready `README.md`** version with a clean title, table of contents, consistent heading levels, fenced code blocks, and GitHub-friendly tips like collapsible sections.
 
 ````markdown
 # Grade 11 CAT (NCS CAPS) — Spreadsheets: Start-to-Finish Guide
